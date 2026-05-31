@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokendave",
+        "uuid": 27413914,
+        "checksum": "gnp5yj"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
